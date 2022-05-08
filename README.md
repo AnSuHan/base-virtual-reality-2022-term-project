@@ -1,1 +1,1 @@
-# virtual-reality-2022-term-project
+# 가상현실및기초-2022-term-project
